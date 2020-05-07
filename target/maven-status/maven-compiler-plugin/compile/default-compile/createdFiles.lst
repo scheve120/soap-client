@@ -1,0 +1,10 @@
+eu\additude\ConsummingZeep\wsdl\GetPersoonRequest.class
+eu\additude\ConsummingZeep\wsdl\package-info.class
+eu\additude\ConsummingZeep\wsdl\ObjectFactory.class
+eu\additude\ConsummingZeep\ConsummingZeepApplication.class
+eu\additude\ConsummingZeep\wsdl\GetPersoonResponse.class
+eu\additude\ConsummingZeep\wsdl\GetPersonenResponse.class
+eu\additude\ConsummingZeep\wsdl\GetPersonenRequest.class
+eu\additude\ConsummingZeep\wsdl\PersoonSoap.class
+eu\additude\ConsummingZeep\consumingwebservice\PersoonClient.class
+eu\additude\ConsummingZeep\consumingwebservice\PersoonConfiguration.class
